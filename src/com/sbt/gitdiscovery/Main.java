@@ -24,5 +24,7 @@ public class Main {
 
     private void collect2(){
 
+    }private void collect3(){
+
     }
 }
