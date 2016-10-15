@@ -13,4 +13,8 @@ public class Main {
     private void remove(){
 
     }
+
+    private void delete(){
+
+    }
 }
