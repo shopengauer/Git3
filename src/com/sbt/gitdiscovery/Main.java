@@ -9,4 +9,8 @@ public class Main {
     private void add(){
 
     }
+
+    private void remove(){
+
+    }
 }
