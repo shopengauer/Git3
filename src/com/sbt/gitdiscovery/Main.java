@@ -21,4 +21,8 @@ public class Main {
     private void collect(){
 
     }
+
+    private void collect2(){
+
+    }
 }
