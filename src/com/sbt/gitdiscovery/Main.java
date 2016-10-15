@@ -27,4 +27,14 @@ public class Main {
     }private void collect3(){
 
     }
+    private void collect4(){
+
+    }
+    private void collect5(){
+
+    }
+
+
+
+
 }
