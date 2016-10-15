@@ -17,4 +17,8 @@ public class Main {
     private void delete(){
 
     }
+
+    private void collect(){
+
+    }
 }
