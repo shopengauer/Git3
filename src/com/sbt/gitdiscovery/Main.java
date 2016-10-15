@@ -32,6 +32,8 @@ public class Main {
     }
     private void collect5(){
 
+    } private void collect6(){
+
     }
 
 
