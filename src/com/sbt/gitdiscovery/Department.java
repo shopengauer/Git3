@@ -6,6 +6,6 @@ package com.sbt.gitdiscovery;
 public class Department {
 
     private String departmentName;
-    private long id;
+    private long id;// comment
 
 }
