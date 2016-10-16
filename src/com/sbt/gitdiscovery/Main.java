@@ -35,6 +35,9 @@ public class Main {
     } private void collect6(){
 
     }
+   private void devCollection6(){
+
+    }
 
 
 
