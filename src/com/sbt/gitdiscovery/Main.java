@@ -35,7 +35,7 @@ public class Main {
     } private void collect6(){
 
     }
-   private void dev2Collection6(){
+   private void dev23Collection6(){
 
     }
 
